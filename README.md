@@ -1,5 +1,5 @@
-# Lock Manager
-[![Build status](https://ci.appveyor.com/api/projects/status/fqy7hvpjy9jl1g83?svg=true)](https://ci.appveyor.com/project/AhmadRajabi/lockmanager)
+# Locks Manager
+[![Build status](https://ci.appveyor.com/api/projects/status/47cyyra364lklsyk/branch/master?svg=true)](https://ci.appveyor.com/project/AhmadRajabi/locksmanager/branch/master)
 
 ```c#
 static LocksManager locksManager = new LocksManager();
