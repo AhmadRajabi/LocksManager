@@ -340,3 +340,4 @@ ASALocalRun/
 healthchecksdb
 /Admin.Web/Areas/Flight/Views/Home/AddPassengers.cshtml
 *.cshtml
+*.nuspec
