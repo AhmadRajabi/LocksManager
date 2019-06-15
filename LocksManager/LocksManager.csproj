@@ -4,11 +4,12 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Ahmad Rajabi</Authors>
     <Description>C# asynchronous and synchronous locking based on a key</Description>
-    <PackageProjectUrl>https://github.com/AhmadRajabi/LocksManager</PackageProjectUrl>
+    <PackageProjectUrl></PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/AhmadRajabi/LocksManager/blob/master/LICENSE.md</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/AhmadRajabi/LocksManager</RepositoryUrl>
     <PackageTags>c# lock async</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.2.0</Version>
   </PropertyGroup>
 
 </Project>
