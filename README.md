@@ -1,5 +1,7 @@
 # Locks Manager
 [![Build status](https://ci.appveyor.com/api/projects/status/47cyyra364lklsyk/branch/master?svg=true)](https://ci.appveyor.com/project/AhmadRajabi/locksmanager/branch/master)
+[![NuGet](https://img.shields.io/nuget/vpre/mediatr.svg)](https://www.nuget.org/packages/LocksManager)
+
 
 ```c#
 static LocksManager locksManager = new LocksManager();
